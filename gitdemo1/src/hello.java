@@ -3,6 +3,8 @@ public class hello {
         System.out.println("hello");
     }
     public void fun1(){
+        //草
         System.out.println("world");
+
     }
 }
