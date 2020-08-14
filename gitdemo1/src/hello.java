@@ -7,4 +7,7 @@ public class hello {
         System.out.println("world");
 
     }
+    public int cao(){
+        return 1;
+    }
 }
