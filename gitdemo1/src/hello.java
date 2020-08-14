@@ -7,4 +7,7 @@ public class hello {
         System.out.println("world");
 
     }
+    //ccccc
+    public void fun2(){}
+
 }
