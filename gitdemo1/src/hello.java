@@ -8,6 +8,8 @@ public class hello {
 
     }
     //ccccc
-    public void fun2(){}
+    public void fun2(){
+        int i=1/0;
+    }
 
 }
